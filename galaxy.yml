@@ -1,0 +1,17 @@
+namespace: "rockylinux"
+name: "taiga"
+version: "0.1.0"
+readme: "README.md"
+authors:
+  - Neil Hanlon
+description: "Project Management, Taiga"
+license:
+  - "MIT"
+tags:
+  - collection
+  - project management
+  - taiga
+repository: "https://www.github.com/rocky-linux/taiga-ansible"
+homepage: "https://www.github.com/rocky-linux/taiga-ansible"
+documentation: "https://www.github.com/rocky-linux/taiga-ansible"
+issues: "https://www.github.com/rocky-linux/taiga-ansible"
